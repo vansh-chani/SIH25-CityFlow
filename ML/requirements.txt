@@ -1,0 +1,17 @@
+stable-baselines3
+sumo_rl
+torch
+sumolib
+traci
+gymnasium
+pettingzoo
+numpy
+pandas
+pillow
+scipy
+supersuit
+fire
+dm-tree
+tree
+linear-rl
+lz4
